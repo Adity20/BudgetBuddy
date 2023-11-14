@@ -10,7 +10,7 @@ The Finance Tracking Application is a C++ project designed to help users manage 
 - **Income Management**: Log sources of income for a comprehensive financial overview.
 - **Budgeting**: Set monthly budgets and track your spending against them.
 - **Reports and Analytics**: Generate detailed reports to analyze financial trends.
-- **User-Friendly Interface**: A simple and intuitive command-line interface for easy navigation.
+- **User-Friendly Interface**: A simple and intuitive command-line interface for easy navigation.(We'll add the code for this soon)
 
 
 ## Getting Started
