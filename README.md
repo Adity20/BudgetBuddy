@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Finance Tracking Application is a C++ project designed to help users manage their finances effectively. The application provides features for tracking income, expenses, and generating reports to gain insights into financial trends.
+The Budget Buddy is a C++ project designed to help users manage their finances effectively. The application provides features for tracking income, expenses, and generating reports to gain insights into financial trends.
 
 ## Features
 
